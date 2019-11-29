@@ -8,6 +8,10 @@ import kotlinx.android.synthetic.main.activity_main2.*
 
 class MainActivity : AppCompatActivity() {
 
+    companion object{
+        var user:String?=null
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -23,8 +27,13 @@ class MainActivity : AppCompatActivity() {
 
             val intent: Intent = Intent(this,Main3Activity::class.java)
             startActivity(intent)
+            user=obtener.text.toString()
 
         }
 
+    }
+
+    fun obtuser():String{
+        return user.toString()
     }
 }
