@@ -51,8 +51,8 @@ En este punto cabe resaltar que se ha ejemplificado con una pantalla para los Po
 
 Con estas especificaciones se propuso un diseño orientado a objetos que se puede modelar como se observa la siguiente imagen.
  
-[DIAGRAMA DE CLASES, No lo puse por si depronto se debía adaptar al modelado del sistema que vas a proponer]
-[CALEB, PLEASE, PUT YOUR INFO HERE] <3
+![GitHub Logo](/ClassDiagram.jpeg)
+Format: ![Alt Text](url)
 
 ### 2.2. Gestión del proyecto
 
