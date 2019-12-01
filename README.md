@@ -54,7 +54,7 @@ Con estas especificaciones se propuso un diseño orientado a objetos que se pued
 ![GitHub Logo](/ClassDiagram.jpeg)
 
 Además, se diseñó el flujo del sistema de juego a partir del siguiente diagrama.
-![GitHub Logo](/FlowChart.jpg)
+![GitHub Logo](/FlowChart.JPG)
 ### 2.2. Gestión del proyecto
 
 Como se describió antes, se usa Android Studio como entorno de desarrollo, el cual se sincroniza con este repositorio. Se utiliza la plataforma para compartir los archivos necesarios para la elaboración de la app además de coordinar las entradas al repositorio de esta. El equipo deberá evaluar las sugerencias de cambio al código antes de unirlas a la rama principal del proyecto.  Esta metodología permitió que los integrantes del equipo en todo momento tuvieran claridad de en qué etapa estaba el proyecto, además de facilitar la asignación de tareas y seguimiento al cumplimiento de las mismas, evidenciando así una metodolodía ágil a travpes de un tablero KANBAN. [https://github.com/LeoM98/Pokemon/projects/1]
