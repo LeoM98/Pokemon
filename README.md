@@ -1,5 +1,5 @@
 # Pokemon APP
-Proyecto de Ingeniería de Software
+Proyecto de Ingeniería de Software. Equipo D. Diana Barboza, Juan Caro, Caleb Villalba y Leonardo Monsalvo.
 
 ## 1. Análisis de Requerimientos
 
@@ -49,7 +49,7 @@ En este punto cabe resaltar que se ha ejemplificado con una pantalla para los Po
 10.	Aquí se desarrolla la batalla. Se necesita la información sobre los poderes/habilidades de cada Pokémon y qué tanto afecta cada una de estas a su oponente (viene de la API), de manera que se puedan ir modificando los niveles de vida.
 11.	En la pantalla final con base a la información recolectada anteriormente, mostramos el Pokémon ganador, el usuario o nickname asignado y guardamos datos locales como lo son las puntuaciones de la batalla Pokémon
 
-Con estas especificaciones se propuso un diseño orientado a objetos que se puede modelar como se observa en la figura 1.
+Con estas especificaciones se propuso un diseño orientado a objetos que se puede modelar como se observa la siguiente imagen.
  
 [DIAGRAMA DE CLASES, No lo puse por si depronto se debía adaptar al modelado del sistema que vas a proponer]
 [CALEB, PLEASE, PUT YOUR INFO HERE] <3
